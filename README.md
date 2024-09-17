@@ -1,4 +1,4 @@
-# Weather Info - Consulta de Previsão do Tempo
+# Consulta de Clima - OpenWeather API 🌦️
 
 Este projeto é um aplicativo simples que consulta a previsão do tempo de uma cidade utilizando a API do [OpenWeather](https://openweathermap.org/). A aplicação permite que o usuário insira o nome de uma cidade e receba informações sobre a temperatura, umidade, velocidade do vento e pressão atmosférica.
 
